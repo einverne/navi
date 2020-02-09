@@ -1,3 +1,68 @@
+- name: 管理后台
+  icon: linecons-user
+  links:
+    - title: QNAP 后台管理
+      url: http://192.168.2.200
+      logo: /assets/images/logos/qnap.png
+      description: QNAP 后台管理
+    - title: Transmission 后台管理
+      url: http://192.168.2.200:49091/
+      logo: /assets/images/logos/transmission.png
+      description: Transmission 后台管理
+    - title: Tiny Tiny RSS 后台管理
+      url: http://192.168.2.200:181/
+      logo: /assets/images/logos/ttrss.png
+      description: Tiny Tiny RSS 后台管理
+    - title: rtorrent
+      url: http://192.168.2.200:6009
+      logo: /assets/images/logos/rtorrent.png
+      description: rtorrent-Pro
+    - title: rtorrent
+      url: http://192.168.2.200:3000
+      logo: /assets/images/logos/flood-rtorrent.png
+      description: rtorrent-Pro
+    - title: frp 后台
+      url: http://118.24.155.147:7500/
+      logo: /assets/images/logos/frp.png
+      description: frp 后台
+    - title: Calibre 后台
+      url: http://192.168.2.200:8083/
+      logo: /assets/images/logos/calibre-web.png
+      description: Calibre Web
+    - title: BookStack 后台
+      url: http://118.24.155.147:6875/
+      logo: /assets/images/logos/bookstack.png
+      description: 自己的电子书管理后台
+    - title: Resilio Sync
+      url: https://192.168.2.200:14860/gui/
+      logo: /assets/images/logos/resilio-sync.png
+      description: Resilio Sync
+    - title: 微力同步
+      url: http://192.168.2.200:8886/
+      logo: /assets/images/logos/verysync.png
+      description: 微力同步
+    - title: NextCloud
+      url: http://192.168.2.200:20080
+      logo: /assets/images/logos/nextcloud.png
+      description: NextCloud
+    - title: SyncThing
+      url: http://192.168.2.200:8384
+      logo: /assets/images/logos/syncthing.png
+      description: SyncThing 是一款文件同步工具
+    - title: Gogs
+      url: http://192.168.2.200:10080/
+      logo: /assets/images/logos/gogs.png
+      description: A painless self-hosted Git service
+    - title: Emby
+      url: http://192.168.2.200:8096/
+      logo: /assets/images/logos/emby.png
+      description: Media Server
+    - title: phpMyAdmin
+      url: http://192.168.2.200/phpMyAdmin/
+      logo: /assets/images/logos/phpmyadmin.png
+      description: phpMyAdmin
+
+
 - name: 常用推荐
   icon: linecons-star
   links: 
@@ -37,15 +102,7 @@
       logo: /assets/images/logos/producthunt.png
       url: https://www.producthunt.com/
       description: 发现新鲜有趣的产品
-    - title: Youtube
-      logo: /assets/images/logos/youtube.png
-      url: https://www.youtube.com/
-      description: 全球最大的学习分享平台
-    - title: Google
-      logo: /assets/images/logos/google.png
-      url: https://www.google.com/
-      description: 全球最大的UI学习分享平台
-    
+
 
 - name: 社区资讯
   icon: linecons-doc
