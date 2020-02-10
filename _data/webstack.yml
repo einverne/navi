@@ -13,6 +13,10 @@
       url: http://192.168.2.200:181/
       logo: /assets/images/logos/ttrss.png
       description: Tiny Tiny RSS 后台管理
+    - title: FreshRSS
+      url: http://192.168.2.200:6080/
+      logo: /assets/images/logos/freshrss.png
+      description: FreshRSS
     - title: rtorrent
       url: http://192.168.2.200:6009
       logo: /assets/images/logos/rtorrent.png
