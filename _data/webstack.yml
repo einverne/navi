@@ -49,6 +49,10 @@
       url: http://192.168.2.200:20080
       logo: /assets/images/logos/nextcloud.png
       description: NextCloud
+    - title: filerun
+      url: http://192.168.2.200:30080
+      logo: /assets/images/logos/filerun.png
+      description: filerun
     - title: SyncThing
       url: http://192.168.2.200:8384
       logo: /assets/images/logos/syncthing.png
