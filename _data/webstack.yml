@@ -69,6 +69,10 @@
       url: http://192.168.2.200/phpMyAdmin/
       logo: /assets/images/logos/phpmyadmin.png
       description: phpMyAdmin
+    - title: 人人影视
+      url: http://192.168.2.200:3001
+      logo: /assets/images/logos/renren.png
+      description: 人人影视
 
 
 - name: 常用推荐
