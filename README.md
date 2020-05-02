@@ -1,7 +1,7 @@
-# ➡️ [webstack.0xl2oot.cn](https://webstack.0xl2oot.cn/) - 网址导航
+# EV's personal navigation site
 
-本项目是 [webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 的 [Jekyll](https://jekyllrb.com/) 版。
+This project is the [Jekyll](https://jekyllrb.com/) version of [webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io).
+And I turn it into a personal navigation site. I organize my personal web services I used in local network here.
+I will share some useful websites I used often later.
 
-> 这是一个纯静态的网址导航网站，内容均由 [viggo](http://viggoz.com/) 收集并整理。项目基于bootstrap前端框架开发。
-
-![](https://webstack.0xl2oot.cn/assets/images/preview.gif)
+see more: <https://navi.einverne.info>

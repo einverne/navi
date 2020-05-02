@@ -1,10 +1,23 @@
-- name: 管理后台
+- name: 系统管理后台
   icon: linecons-user
   links:
     - title: QNAP 后台管理
       url: http://192.168.2.200
       logo: /assets/images/logos/qnap.png
       description: QNAP 后台管理
+    - title: Proxmox 管理后台
+      url: https://192.168.2.5:8006
+      logo: /assets/images/logos/proxmox-logo.png
+      description: Proxmox 管理后台
+    - title: OpenMediaVault 管理后台
+      url: http://192.168.2.6/
+      logo: /assets/images/logos/openmediavault-logo.png
+      description: OpenMediaVault 管理后台
+
+
+- name: 内网服务管理后台
+  icon: linecons-cog
+  links:
     - title: Transmission 后台管理
       url: http://192.168.2.200:49091/
       logo: /assets/images/logos/transmission.png
@@ -21,14 +34,10 @@
       url: http://192.168.2.200:6009
       logo: /assets/images/logos/rtorrent.png
       description: rtorrent-Pro
-    - title: rtorrent
+    - title: rtorrent Flood UI
       url: http://192.168.2.200:3000
       logo: /assets/images/logos/flood-rtorrent.png
       description: rtorrent-Pro
-    - title: frp 后台
-      url: http://118.24.155.147:7500/
-      logo: /assets/images/logos/frp.png
-      description: frp 后台
     - title: Calibre 后台
       url: http://192.168.2.200:8083/
       logo: /assets/images/logos/calibre-web.png
@@ -73,6 +82,32 @@
       url: http://192.168.2.200:3001
       logo: /assets/images/logos/renren.png
       description: 人人影视
+
+
+- name: Router
+  icon: linecons-params
+  links:
+    - title: Home Router
+      url: http://192.168.2.1
+      logo: /assets/images/logos/router.jpg
+      description: 主路由
+    - title: Mi Router
+      url: http://192.168.2.2
+      logo: /assets/images/logos/mirouter.png
+      description: 无线中继路由
+
+
+- name: 公网管理后台
+  icon: linecons-lock
+  links:
+    - title: frp 后台
+      url: http://118.24.155.147:7500/
+      logo: /assets/images/logos/frp.png
+      description: frp 后台
+    - title: WordPress 后台
+      url: https://www.einverne.info/wp-login.php
+      logo: /assets/images/logos/wordpress-logo.svg
+      description: WordPress 后台
 
 
 - name: 常用推荐
