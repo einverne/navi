@@ -13,6 +13,14 @@
       url: http://192.168.2.6/
       logo: /assets/images/logos/openmediavault-logo.png
       description: OpenMediaVault 管理后台
+    - title: Grafana 管理后台
+      url: http://192.168.2.5:3000
+      logo: /assets/images/logos/grafana_logo.png
+      description: Grafana 管理后台
+    - title: Prometheus 管理后台
+      url: http://192.168.2.5:9090
+      logo: /assets/images/logos/prometheus_logo.png
+      description: Prometheus 管理后台
 
 
 - name: 内网服务管理后台
