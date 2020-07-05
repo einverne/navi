@@ -21,6 +21,10 @@
       url: http://192.168.2.5:9090
       logo: /assets/images/logos/prometheus_logo.png
       description: Prometheus 管理后台
+    - title: AdGuard Home 管理后台
+      url: http://192.168.2.3:8080
+      logo: /assets/images/logos/adguard-home-logo.png
+      description: AdGuard Home 管理后台
 
 
 - name: 内网服务管理后台
