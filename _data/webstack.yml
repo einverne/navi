@@ -107,6 +107,10 @@
       url: http://192.168.2.2
       logo: /assets/images/logos/mirouter.png
       description: 无线中继路由
+    - title: Asus RT-AC86U
+      url: http://10.0.0.1
+      logo: /assets/images/logos/asus-router.png
+      description: 无线中继路由
 
 
 - name: 公网管理后台
