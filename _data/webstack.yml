@@ -22,7 +22,7 @@
       logo: /assets/images/logos/prometheus_logo.png
       description: Prometheus 管理后台
     - title: AdGuard Home 管理后台
-      url: http://192.168.2.3:8080
+      url: http://ad.einverne.info
       logo: /assets/images/logos/adguard-home-logo.png
       description: AdGuard Home 管理后台
 
