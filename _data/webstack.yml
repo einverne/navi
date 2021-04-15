@@ -124,6 +124,10 @@
       url: https://www.einverne.info/wp-login.php
       logo: /assets/images/logos/wordpress-logo.svg
       description: WordPress 后台
+    - title: 各服务状态
+      url: https://status.einverne.info
+      logo: /assets/images/logos/uptimerobot.png
+      description: WordPress 后台
 
 
 - name: 常用推荐
