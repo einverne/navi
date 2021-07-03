@@ -30,10 +30,14 @@
 - name: 内网服务管理后台
   icon: linecons-cog
   links:
-    - title: Transmission 后台管理
+    - title: QNAP Transmission 后台管理
       url: http://192.168.2.200:49091/
       logo: /assets/images/logos/transmission.png
-      description: Transmission 后台管理
+      description: QNAP Transmission 后台管理
+    - title: OMV Transmission 后台管理
+      url: http://192.168.2.21:9091/
+      logo: /assets/images/logos/transmission.png
+      description: OMV Transmission 后台管理
     - title: Tiny Tiny RSS 后台管理
       url: http://192.168.2.200:181/
       logo: /assets/images/logos/ttrss.png
