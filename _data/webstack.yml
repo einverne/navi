@@ -104,17 +104,17 @@
   icon: linecons-params
   links:
     - title: Home Router
-      url: http://192.168.2.1
+      url: http://10.10.10.1
       logo: /assets/images/logos/router.jpg
       description: 主路由
     - title: Mi Router
-      url: http://192.168.2.2
+      url: http://10.10.10.2
       logo: /assets/images/logos/mirouter.png
       description: 无线中继路由
     - title: Asus RT-AC86U
-      url: http://10.0.0.1
+      url: http://192.168.2.1
       logo: /assets/images/logos/asus-router.png
-      description: 无线中继路由
+      description: Room Router
 
 
 - name: 公网管理后台
